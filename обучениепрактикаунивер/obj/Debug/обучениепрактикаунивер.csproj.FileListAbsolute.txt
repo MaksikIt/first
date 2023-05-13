@@ -1,0 +1,20 @@
+C:\Users\maksi\source\repos\обучениепрактикаунивер\обучениепрактикаунивер\bin\Debug\обучениепрактикаунивер.exe.config
+C:\Users\maksi\source\repos\обучениепрактикаунивер\обучениепрактикаунивер\bin\Debug\обучениепрактикаунивер.exe
+C:\Users\maksi\source\repos\обучениепрактикаунивер\обучениепрактикаунивер\bin\Debug\обучениепрактикаунивер.pdb
+C:\Users\maksi\source\repos\обучениепрактикаунивер\обучениепрактикаунивер\obj\Debug\обучениепрактикаунивер.csprojAssemblyReference.cache
+C:\Users\maksi\source\repos\обучениепрактикаунивер\обучениепрактикаунивер\obj\Debug\обучениепрактикаунивер.Form1.resources
+C:\Users\maksi\source\repos\обучениепрактикаунивер\обучениепрактикаунивер\obj\Debug\обучениепрактикаунивер.Properties.Resources.resources
+C:\Users\maksi\source\repos\обучениепрактикаунивер\обучениепрактикаунивер\obj\Debug\обучениепрактикаунивер.csproj.GenerateResource.cache
+C:\Users\maksi\source\repos\обучениепрактикаунивер\обучениепрактикаунивер\obj\Debug\обучениепрактикаунивер.csproj.CoreCompileInputs.cache
+C:\Users\maksi\source\repos\обучениепрактикаунивер\обучениепрактикаунивер\obj\Debug\обучениепрактикаунивер.exe
+C:\Users\maksi\source\repos\обучениепрактикаунивер\обучениепрактикаунивер\obj\Debug\обучениепрактикаунивер.pdb
+C:\Users\maksi\Desktop\си шарп обучение\обучениепрактикаунивер\обучениепрактикаунивер\bin\Debug\обучениепрактикаунивер.exe.config
+C:\Users\maksi\Desktop\си шарп обучение\обучениепрактикаунивер\обучениепрактикаунивер\bin\Debug\обучениепрактикаунивер.exe
+C:\Users\maksi\Desktop\си шарп обучение\обучениепрактикаунивер\обучениепрактикаунивер\bin\Debug\обучениепрактикаунивер.pdb
+C:\Users\maksi\Desktop\си шарп обучение\обучениепрактикаунивер\обучениепрактикаунивер\obj\Debug\обучениепрактикаунивер.csprojAssemblyReference.cache
+C:\Users\maksi\Desktop\си шарп обучение\обучениепрактикаунивер\обучениепрактикаунивер\obj\Debug\обучениепрактикаунивер.Form1.resources
+C:\Users\maksi\Desktop\си шарп обучение\обучениепрактикаунивер\обучениепрактикаунивер\obj\Debug\обучениепрактикаунивер.Properties.Resources.resources
+C:\Users\maksi\Desktop\си шарп обучение\обучениепрактикаунивер\обучениепрактикаунивер\obj\Debug\обучениепрактикаунивер.csproj.GenerateResource.cache
+C:\Users\maksi\Desktop\си шарп обучение\обучениепрактикаунивер\обучениепрактикаунивер\obj\Debug\обучениепрактикаунивер.csproj.CoreCompileInputs.cache
+C:\Users\maksi\Desktop\си шарп обучение\обучениепрактикаунивер\обучениепрактикаунивер\obj\Debug\обучениепрактикаунивер.exe
+C:\Users\maksi\Desktop\си шарп обучение\обучениепрактикаунивер\обучениепрактикаунивер\obj\Debug\обучениепрактикаунивер.pdb
